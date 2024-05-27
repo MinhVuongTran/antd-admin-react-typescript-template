@@ -17,6 +17,7 @@
     "antd": "^5.16.1",
     "axios": "^1.6.8",
     "classnames": "^2.5.1",
+    "commitlint": "^19.3.0",
     "dayjs": "^1.11.10",
     "echarts": "^5.5.0",
     "framer-motion": "^11.0.25",
