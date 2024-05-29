@@ -13,7 +13,7 @@
       "sign_in": "Đăng nhập"
     },
     "errors": {
-      "email": {
+      "email_or_username": {
         "required": "Nhập email hoặc tên tài khoản của bạn"
       },
       "password": {
